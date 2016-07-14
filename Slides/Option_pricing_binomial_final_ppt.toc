@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Description}{4}{0}{1}
+\beamer@sectionintoc {2}{The Binomial Model for European option: an application with Chinese option}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Empirical results}{5}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{7}{0}{3}
