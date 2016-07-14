@@ -1,5 +1,6 @@
 # SFM14SFEbitreeFDiv_China
 Final project #3 by group #14 for SFM2016 course
+"Application of the Quantlet of the Binomial tree to CSI 300 Index Option (China)
 
 ```yaml
 Name of QuantLet: SFEbitreeFDiv_China
