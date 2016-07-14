@@ -1,0 +1,27 @@
+Name of QuantLet: SFEbitreeFDiv_China
+
+Description: 'Computes European option prices using a binomial tree for assets with fixed amount dividends.'
+
+Keywords: 'binomial, tree, asset, call, put, option, option-price, european-option, dividends, financial, black-scholes'
+
+See also: SFEbitreePDiv, SFEbitreeCDiv, SFSbitreeNDiv, SFEbitreeFDiv
+
+Author: Awdesch Melzer, Piotr Majer, Ying Chen, Anait Agadzhanian, Jiang Mengjie, Wouter Biegstraaten
+
+Submitted: Fri, July 15 2015 by Anait Agadzhanian
+
+Input: 
+- s0 : Stock Price
+- k : Exercise Price
+- i : Interest Rate
+- sig : Volatility
+- t : Time to Expiration
+- n : Number of Intervals
+- type : 0 is American, 1 is European
+- flag : 1 is call, 0 is Put
+- div: 0
+
+Output: binomial trees and price of option
+
+Example: 'User inputs parameters [s0, k, i, sig, t, n, type] like [2.136, 2, 0.0305, 0.13, 0.153424658, 5, 1， 0], then call price is shown.'
+
